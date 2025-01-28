@@ -2,7 +2,7 @@
 
 ### [1월 넷째주, 2주차] : Git, Github, js, web
 
-25.01.28 git 실습
+[25.01.28](https://github.com/100-hours-a-week/milo.p-til/blob/main/January/2025-01-28.md) git 실습
 
 [25.01.27](https://github.com/100-hours-a-week/milo.p-til/blob/main/January/2025-01-27.md) git, branch, merge
 
