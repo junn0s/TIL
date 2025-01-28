@@ -4,7 +4,7 @@
 
 25.01.28 git 실습
 
-25.01.27 git, branch, merge
+[25.01.27](https://github.com/100-hours-a-week/milo.p-til/blob/main/January/2025-01-27.md) git, branch, merge
 
 ### [1월 셋째주, 1주차] : 파이썬 기초, CLI, multi-threading
 
