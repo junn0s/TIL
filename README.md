@@ -14,6 +14,6 @@
 
 25.01.23 프로세스 및 멀티스레드, 개인과제
 
-25.01.22 동기, 비동기 및 CLI, 개인과제
+[25.01.22](https://github.com/100-hours-a-week/milo.p-til/blob/main/January/2025-01-22.md) 동기, 비동기 및 CLI, 개인과제
 
 [25.01.21](https://github.com/100-hours-a-week/milo.p-til/blob/main/January/2025-01-21.md) 파이썬 기초 강의 
