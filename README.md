@@ -4,7 +4,7 @@
 
 [25.02.01] web, http, rest API, framework
 
-[25.01.31] js 문법 및 미니퀘스트, 과제
+[25.01.31](https://github.com/junn0s/TIL/blob/main/January/2025-01-31.md) js 문법 및 미니퀘스트, 과제
 
 [25.01.28](https://github.com/100-hours-a-week/milo.p-til/blob/main/January/2025-01-28.md) git 실습
 
