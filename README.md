@@ -1,5 +1,9 @@
 ## ✏️TIL(Today I Learned)
 
+### [2월 첫째주, 3주차] : Numpy, Pandas, SQL 문법
+
+[25.02.04]() numpy 및 pandas 집중강의
+
 ### [1월 넷째주, 2주차] : Git, Github, js, web
 
 [25.02.01](https://github.com/junn0s/TIL/blob/main/February/2025-02-01.md) web, http, rest API, framework
