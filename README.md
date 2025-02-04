@@ -2,7 +2,7 @@
 
 ### [1월 넷째주, 2주차] : Git, Github, js, web
 
-[25.02.01] web, http, rest API, framework
+[25.02.01](https://github.com/junn0s/TIL/blob/main/February/2025-02-01.md) web, http, rest API, framework
 
 [25.01.31](https://github.com/junn0s/TIL/blob/main/January/2025-01-31.md) js 문법 및 미니퀘스트, 과제
 
