@@ -2,6 +2,8 @@
 
 ### [2월 첫째주, 3주차] : Numpy, Pandas, SQL 문법
 
+[25.02.06](https://github.com/junn0s/TIL/blob/main/February/2025-02-06.md) subset, categorical, kwargs, axis
+
 [25.02.05](https://github.com/junn0s/TIL/blob/main/February/2025-02-05.md) ndarray 객체, 벡터화 및 브로드캐스팅, view, copy
 
 [25.02.04](https://github.com/junn0s/TIL/blob/main/February/2025-02-04.md) numpy 및 pandas 집중강의
