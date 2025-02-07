@@ -2,7 +2,7 @@
 
 ### [2월 첫째주, 3주차] : Numpy, Pandas, SQL 문법
 
-[25.02.07]() 딥다이브
+[25.02.07](https://github.com/junn0s/TIL/blob/main/February/2025-02-07.md) 딥다이브
 
 [25.02.06](https://github.com/junn0s/TIL/blob/main/February/2025-02-06.md) subset, categorical, kwargs, axis
 
