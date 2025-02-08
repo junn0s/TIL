@@ -1,6 +1,8 @@
 ## ✏️TIL(Today I Learned)
 
-### [2월 첫째주, 3주차] : Numpy, Pandas, SQL 문법
+### [2월 첫째주, 3주차] : Numpy, Pandas, SQL 문법, 선형대수학
+
+[25.02.08](https://github.com/junn0s/TIL/blob/main/February/2025-02-08.md) Algebraic Structures, Linear Algebra
 
 [25.02.07](https://github.com/junn0s/TIL/blob/main/February/2025-02-07.md) 딥다이브
 
