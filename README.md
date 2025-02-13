@@ -8,7 +8,7 @@
 
 [25.02.11](https://github.com/junn0s/TIL/blob/main/February/2025-02-11.md) 카카오 클라우드(크램폴린) 특강, D2Hub, Kargo, 쿠버네티스
 
-[25.02.10]() matplotlib, seaborn, SciPy 집중강의
+[25.02.10](https://github.com/junn0s/TIL/blob/main/February/2025-02-10.md) matplotlib, seaborn, SciPy 집중강의
 
 ### [2월 첫째주, 3주차] : Numpy, Pandas, 선형대수학
 
