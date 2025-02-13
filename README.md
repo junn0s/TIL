@@ -2,7 +2,7 @@
 
 ### [2월 둘째주, 4주차] : Matplotlib, Seaborn, Scipy, kakao cloud
 
-[25.02.13]() hypothesis test
+[25.02.13](https://github.com/junn0s/TIL/blob/main/February/2025-02-13.md) hypothesis test
 
 [25.02.12](https://github.com/junn0s/TIL/blob/main/February/2025-02-12.md) gaussian distribution
 
