@@ -2,7 +2,7 @@
 
 ### [2월 둘째주, 4주차] : Matplotlib, Seaborn, Scipy, kakao cloud
 
-[25.02.14]() 딥다이브
+[25.02.14](https://github.com/junn0s/TIL/blob/main/February/2025-02-14.md) 딥다이브
 
 [25.02.13](https://github.com/junn0s/TIL/blob/main/February/2025-02-13.md) hypothesis test
 
