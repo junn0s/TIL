@@ -1,4 +1,4 @@
-## ✏️TIL
+## ✏️TIL📖
 
 ### [2월 둘째주, 4주차] : Matplotlib, Seaborn, Scipy, kakao cloud, Linear Algebra
 
