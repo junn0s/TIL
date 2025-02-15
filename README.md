@@ -1,6 +1,6 @@
-## ✏️TIL📖
+## ✏️TIL
 
-### [2월 둘째주, 4주차] : Matplotlib, Seaborn, Scipy, kakao cloud, Linear Algebra
+### 📖[2월 둘째주, 4주차] : Matplotlib, Seaborn, Scipy, kakao cloud, Linear Algebra
 
 [25.02.15]() Homomorphism과 Isomorphism, 차원 정리, 선형 변환의 행렬 표현
 
@@ -14,7 +14,7 @@
 
 [25.02.10](https://github.com/junn0s/TIL/blob/main/February/2025-02-10.md) matplotlib, seaborn, SciPy 집중강의
 
-### [2월 첫째주, 3주차] : Numpy, Pandas, 선형대수학
+### 📖[2월 첫째주, 3주차] : Numpy, Pandas, 선형대수학
 
 [25.02.08](https://github.com/junn0s/TIL/blob/main/February/2025-02-08.md) Algebraic Structures, Linear Algebra
 
@@ -26,7 +26,7 @@
 
 [25.02.04](https://github.com/junn0s/TIL/blob/main/February/2025-02-04.md) numpy 및 pandas 집중강의
 
-### [1월 넷째주, 2주차] : Git, Github, js, web
+### 📖[1월 넷째주, 2주차] : Git, Github, js, web
 
 [25.02.01](https://github.com/junn0s/TIL/blob/main/February/2025-02-01.md) web, http, rest API, framework
 
@@ -36,7 +36,7 @@
 
 [25.01.27](https://github.com/100-hours-a-week/milo.p-til/blob/main/January/2025-01-27.md) git, branch, merge
 
-### [1월 셋째주, 1주차] : 파이썬 기초, CLI, multi-threading
+### 📖[1월 셋째주, 1주차] : 파이썬 기초, CLI, multi-threading
 
 [25.01.25](https://github.com/100-hours-a-week/milo.p-til/blob/main/January/2025-01-25.md) 개인과제 수행 및 제출
 
