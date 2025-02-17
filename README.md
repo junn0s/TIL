@@ -1,5 +1,9 @@
 ## ✏️TIL
 
+### 📖[2월 셋째주, 5주차] : Calculus, PyTorch, 머신러닝, LLM, 행렬식 및 대각화
+
+[25.02.17]() 다변수 미적분, Gradient Descent(경사하강법)
+
 ### 📖[2월 둘째주, 4주차] : Matplotlib, Seaborn, Scipy, kakao cloud, Linear Algebra
 
 [25.02.15](https://github.com/junn0s/TIL/blob/main/February/2025-02-15.md) Homomorphism과 Isomorphism, 차원 정리, 선형 변환의 행렬 표현
