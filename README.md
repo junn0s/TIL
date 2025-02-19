@@ -1,6 +1,10 @@
 ## ✏️TIL
 
-### 📖[2월 셋째주, 5주차] : Calculus, PyTorch, 머신러닝, LLM, 행렬식 및 대각화
+### 📖[2월 셋째주, 5주차] : Calculus, PyTorch, ML/DL, fastAPI server, 행렬식 및 대각화
+
+[25.02.19]() GAN, K-Fold 검증, ML vs DL 차이점
+
+[25.02.18]() 데이터 전처리, 증강, 하이퍼파라미터, ML, DL, 퍼셉트론
 
 [25.02.17](https://github.com/junn0s/TIL/blob/main/February/2025-02-17.md) 다변수 함수 미분, Gradient Descent(경사하강법)
 
