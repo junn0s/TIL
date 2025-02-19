@@ -4,7 +4,7 @@
 
 [25.02.19]() GAN, K-Fold 검증, ML vs DL 차이점
 
-[25.02.18]() 데이터 전처리, 증강, 하이퍼파라미터, ML, DL, 퍼셉트론
+[25.02.18](https://github.com/junn0s/TIL/blob/main/February/2025-02-18.md) 데이터 전처리, 증강, 하이퍼파라미터, ML, DL, 퍼셉트론
 
 [25.02.17](https://github.com/junn0s/TIL/blob/main/February/2025-02-17.md) 다변수 함수 미분, Gradient Descent(경사하강법)
 
