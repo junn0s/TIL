@@ -2,7 +2,7 @@
 
 ### 📖[2월 셋째주, 5주차] : Calculus, PyTorch, ML/DL, fastAPI server, 행렬식 및 대각화
 
-[25.02.19]() GAN, K-Fold 검증, ML vs DL 차이점
+[25.02.19](https://github.com/junn0s/TIL/blob/main/February/2025-02-19.md) GAN, K-Fold 검증, ML vs DL 차이점
 
 [25.02.18](https://github.com/junn0s/TIL/blob/main/February/2025-02-18.md) 데이터 전처리, 증강, 하이퍼파라미터, ML, DL, 퍼셉트론
 
