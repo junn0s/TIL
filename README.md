@@ -2,19 +2,19 @@
 
 ### 📖[2월 넷째주, 6주차] : DL, CNN, 해커톤
 
-[25.02.28]() 해커톤 마지막날
+[25.02.28](https://github.com/junn0s/AMAZING-AI_Maze_game_project) 해커톤 마지막날
 
-[25.02.27]() 해커톤 둘째날
+[25.02.27](https://github.com/junn0s/AMAZING-AI_Maze_game_project) 해커톤 둘째날
 
-[25.02.26]() 해커톤 첫날
+[25.02.26](https://github.com/junn0s/AMAZING-AI_Maze_game_project) 해커톤 첫날
 
-[25.02.25]() 자기pr, 아이디어톤, 팀원 모집
+[25.02.25](https://skitter-heron-927.notion.site/AMAZING-1a2c72905d178015b3bddfbe4016a8bf?pvs=4) 자기pr, 아이디어톤, 팀원 모집
 
 [25.02.24]() ANN, CNN, Activation Function, Optimizer
 
 ### 📖[2월 셋째주, 5주차] : Calculus, PyTorch, ML/DL, fastAPI server, langchain
 
-[25.02.22]() LangChain, LLM API server
+[25.02.22](https://github.com/junn0s/TIL/blob/main/February/2025-02-22.md) LangChain, LLM API server
 
 [25.02.21](https://github.com/junn0s/TIL/blob/main/February/2025-02-21.md) 딥다이브
 
