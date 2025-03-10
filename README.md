@@ -10,7 +10,7 @@
 
 [25.02.25](https://skitter-heron-927.notion.site/AMAZING-1a2c72905d178015b3bddfbe4016a8bf?pvs=4) 자기pr, 아이디어톤, 팀원 모집
 
-[25.02.24]() ANN, CNN, Activation Function, Optimizer
+[25.02.24](https://github.com/junn0s/TIL/blob/main/February/2025-02-24.md) ANN, CNN, Activation Function, Optimizer
 
 ### 📖[2월 셋째주, 5주차] : Calculus, PyTorch, ML/DL, fastAPI server, langchain
 
