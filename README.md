@@ -8,13 +8,13 @@
 
 ### 📖[3월 첫째주, 7주차] : Pre-trained Model, Fine Tuning, 최적화
 
-[25.03.07]() 카카오 네트워킹 데이
+[25.03.07](https://github.com/junn0s/TIL/blob/main/March/2025-03-07.md) 카카오 네트워킹 데이
 
-[25.03.06]() TensorBoard, 정규화 기법
+[25.03.06](https://github.com/junn0s/TIL/blob/main/March/2025-03-06.md) TensorBoard, 정규화 기법
 
-[25.03.05]() Hyperparameter Tuning
+[25.03.05](https://github.com/junn0s/TIL/blob/main/March/2025-03-05.md) Hyperparameter Tuning
 
-[25.03.04]() ResNet, VGG, Fine Tuning, Feature Extraction, Early Stopping
+[25.03.04](https://github.com/junn0s/TIL/blob/main/March/2025-03-04.md) ResNet, VGG, Fine Tuning, Feature Extraction, Early Stopping
 
 ### 📖[2월 넷째주, 6주차] : DL, CNN, 해커톤
 
