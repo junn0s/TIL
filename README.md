@@ -4,13 +4,13 @@
 
 [25.03.15]() 트랜스포머 아키텍쳐, 인프런 RAG 강의
 
-[25.03.13]() 개인과제 수행 및 제출
+[25.03.13](https://github.com/junn0s/KTB_assignments/tree/main/weekly_assignment/7th_assignment) 개인과제 수행 및 제출
 
-[25.03.12]() 미니퀘스트 및 개인과제
+[25.03.12](https://github.com/junn0s/KTB_assignments/tree/main/miniquest/7th_miniquest) 미니퀘스트 및 개인과제
 
-[25.03.11]() LangChain, RAG, Embedding
+[25.03.11](https://github.com/junn0s/TIL/blob/main/March/2025-03-11.md) LangChain, RAG, Embedding
 
-[25.03.10]() NLP, Transformer, Text CNN, GAN
+[25.03.10](https://github.com/junn0s/TIL/blob/main/March/2025-03-10.md) NLP, Transformer, Text CNN, GAN
 
 ### 📖[3월 첫째주, 7주차] : Pre-trained Model, Fine Tuning, 최적화
 
