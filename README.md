@@ -4,9 +4,9 @@
 
 [25.03.22](https://github.com/junn0s/TIL/blob/main/March/2025-03-22.md) 랭체인, RAG 인프런 강의
 
-[25.03.21](https://github.com/junn0s/TIL/blob/main/March/2025-03-21.md) 프로젝트 보고서 작성
+[25.03.21](https://github.com/user-attachments/files/19399187/milo.pdf) 프로젝트 보고서 작성
 
-[25.03.20](https://github.com/junn0s/TIL/blob/main/March/2025-03-20.md) 개인 프로젝트(모델 학습 및 튜닝)
+[25.03.20](https://colab.research.google.com/drive/1FQRTfIQl3WzOvaoyqBED8Bbpe_E1UstM?usp=sharing) 개인 프로젝트(모델 학습 및 튜닝)
 
 [25.03.19](https://github.com/junn0s/TIL/blob/main/March/2025-03-19.md) Transaction, NoSQL
 
