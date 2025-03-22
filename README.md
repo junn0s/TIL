@@ -1,8 +1,20 @@
 ## ✏️TIL
 
-### 📖[3월 둘째주, 8주차] : NLP, Transformer, RAG
+### 📖[3월 셋째주, 9주차] : DB, SQL
 
-[25.03.15]() 트랜스포머 아키텍쳐, 인프런 RAG 강의
+[25.03.22](https://github.com/junn0s/TIL/blob/main/March/2025-03-22.md) 랭체인, RAG 인프런 강의
+
+[25.03.21](https://github.com/junn0s/TIL/blob/main/March/2025-03-21.md) 프로젝트 보고서 작성
+
+[25.03.20](https://github.com/junn0s/TIL/blob/main/March/2025-03-20.md) 개인 프로젝트(모델 학습 및 튜닝)
+
+[25.03.19](https://github.com/junn0s/TIL/blob/main/March/2025-03-19.md) Transaction, NoSQL
+
+[25.03.18](https://github.com/junn0s/TIL/blob/main/March/2025-03-18.md) ERD, Index
+
+[25.03.17](https://github.com/junn0s/TIL/blob/main/March/2025-03-17.md) DB 및 정규화, SQL
+
+### 📖[3월 둘째주, 8주차] : NLP, Transformer
 
 [25.03.13](https://github.com/junn0s/KTB_assignments/tree/main/weekly_assignment/7th_assignment) 개인과제 수행 및 제출
 
